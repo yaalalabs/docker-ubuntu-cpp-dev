@@ -1,14 +1,14 @@
 docker-ubuntu-cpp-dev
 
-Base Image
+**Base Image**
 
-    ubuntu
+* ubuntu
 
-Ubuntu Packages
+**Ubuntu Packages**
 
-    build-essential
-    cmake
-    libmicrohttpd-dev 
-    libprotobuf-dev 
-    protobuf-compiler
+* build-essential
+* cmake
+* libmicrohttpd-dev 
+* libprotobuf-dev 
+* protobuf-compiler
     
