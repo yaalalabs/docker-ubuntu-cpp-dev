@@ -11,4 +11,8 @@ docker-ubuntu-cpp-dev
 * libmicrohttpd-dev 
 * libprotobuf-dev 
 * protobuf-compiler
-    
+* doxygen 
+* graphviz 
+* libboost-test-dev 
+* libboost-system-dev 
+* libcurl3-dev
